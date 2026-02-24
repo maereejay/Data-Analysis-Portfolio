@@ -39,7 +39,7 @@
 ---
 
 ## 📂 Repository Contents
-- `Coffee_Sales_Dashboard.xlsx` → Cleaned data + Dashboard + Pivot Tables  
+- `CoffeeSales.xls` → Cleaned data + Dashboard + Pivot Tables  
 - `screenshots/` → Dashboard screenshots  
 - `README.md` → This file
 
