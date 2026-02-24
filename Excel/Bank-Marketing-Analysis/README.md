@@ -40,7 +40,7 @@
 ---
 
 ## 📂 Repository Contents
-- `Bank_Marketing_Analysis.xlsx` → Cleaned data + Dashboard + Pivot Tables  
+- `Bank.xlsx` → Cleaned data + Dashboard + Pivot Tables  
 - `screenshots/` → Dashboard screenshots  
 - `README.md` → This file
 
