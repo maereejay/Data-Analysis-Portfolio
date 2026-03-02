@@ -37,7 +37,19 @@ Future folders will include **Python**, **SQL**, **Tableau**, and **Power BI** p
 - Delivered actionable recommendations for targeting and campaign strategy.  
 
 ---
+### 3. Loan Risk Analysis Dashboard
 
+**Objective:** Analyze a loan portfolio dataset to identify key drivers of borrower default and develop a risk segmentation framework for improved credit decision-making.
+
+**Key Highlights:**
+- Cleaned and prepared 30k+ loan records by handling missing values, outliers, and formatting inconsistencies.
+- Developed a rule-based Risk Scoring Model using previous default history, loan grade, interest rate, and employment length.
+- Segmented borrowers into Low, Medium, and High risk categories, achieving clear separation in default rates (High: 64%, Medium: 45%, Low: 16%).
+- Evaluated impact of key factors (loan grade, employment length, interest rate, prior default) using pivot-based default rate analysis.
+- Built a consolidated Excel dashboard with KPI cards and visualizations to support risk monitoring and lending decisions.
+- Delivered actionable insights for credit risk assessment and portfolio management.
+
+---
 ## 🔜 Upcoming Projects
 
 - **Python Projects** → Automate analysis, web scraping, and advanced data modeling.  
