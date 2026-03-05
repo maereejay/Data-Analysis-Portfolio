@@ -50,9 +50,25 @@ Future folders will include **Python**, **SQL**, **Tableau**, and **Power BI** p
 - Delivered actionable insights for credit risk assessment and portfolio management.
 
 ---
+## 🗂️ Python Projects Highlights
+
+### 1. Stroke Analysis Project
+
+Performed data analysis on a dataset of 5,110 patients to identify factors associated with stroke.  
+
+**Key Steps:**
+- Cleaned and preprocessed data (handled missing values, duplicates, corrected data types)  
+- Explored distributions of numeric (age, glucose) and categorical features (marital status, smoking, work type, hypertension, heart disease)  
+- Visualized relationships with the target (stroke) using boxplots and bar charts  
+- Conducted basic statistical analysis to identify impactful features  
+
+**Insights:** Age, average glucose level, hypertension, and heart disease are strongly associated with stroke occurrence.  
+Dataset and visualizations are ready for dashboarding in Tableau or Power BI.
+
+---
 ## 🔜 Upcoming Projects
 
-- **Python Projects** → Automate analysis, web scraping, and advanced data modeling.  
+- **Python Projects** → Analysis and web scraping.
 - **SQL Projects** → Querying and joining datasets from relational databases.  
 - **Tableau / Power BI Projects** → Interactive dashboards and visual storytelling.  
 
