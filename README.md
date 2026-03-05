@@ -6,7 +6,7 @@ The portfolio is organized by tool/technology:
 Data-Analysis-Portfolio/
 │
 └── Excel/
-
+└── Python/
 
 
 Future folders will include **Python**, **SQL**, **Tableau**, and **Power BI** projects.  
@@ -65,6 +65,20 @@ Performed data analysis on a dataset of 5,110 patients to identify factors assoc
 **Insights:** Age, average glucose level, hypertension, and heart disease are strongly associated with stroke occurrence.  
 Dataset and visualizations are ready for dashboarding in Tableau or Power BI.
 
+---
+### 2. NYC Taxi Trip Data Analysis
+
+Analyze NYC taxi trips to identify *ride patterns, fare behavior, and passenger trends*.
+
+**Key Highlights:**
+- Cleaned 83,691 rows, handled missing and negative values, and extracted *hour, day, weekday, month, and trip duration*.  
+- *Passenger analysis*: Most trips have 1 passenger; fares vary little by passenger count.  
+- *Time-based patterns*: Peak ride hours at 3 PM, 5 PM, and 7 PM; lowest rides 2–4 AM.  
+- *Trip distance vs fare*: Positive correlation; longer trips → higher fares, with a few outliers.  
+- Visualizations and analysis performed with *Python, Pandas, Matplotlib, and Seaborn*.
+
+**Tools**
+Python, Pandas, NumPy, Matplotlib, Seaborn
 ---
 ## 🔜 Upcoming Projects
 
