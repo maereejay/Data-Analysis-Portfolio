@@ -77,8 +77,6 @@ Analyze NYC taxi trips to identify *ride patterns, fare behavior, and passenger 
 - *Trip distance vs fare*: Positive correlation; longer trips → higher fares, with a few outliers.  
 - Visualizations and analysis performed with *Python, Pandas, Matplotlib, and Seaborn*.
 
-**Tools**
-Python, Pandas, NumPy, Matplotlib, Seaborn
 ---
 ## 🔜 Upcoming Projects
 
