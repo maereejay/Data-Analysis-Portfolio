@@ -78,6 +78,26 @@ Analyze NYC taxi trips to identify *ride patterns, fare behavior, and passenger 
 - Visualizations and analysis performed with *Python, Pandas, Matplotlib, and Seaborn*.
 
 ---
+## 🗂️ SQL Projects Highlights
+
+### 1. Chinook Music Store SQL Analysis
+
+Analyze the Chinook digital music store database to uncover insights about customer behavior, revenue trends, and product performance using SQL and Python.
+
+**Highlights:**
+- Identified **top-performing music genres and tracks** driving store revenue.
+- Analyzed **customer distribution and purchasing behavior across countries**.
+- Determined **top-spending and most frequent customers**.
+- Explored **monthly revenue trends and seasonal purchase patterns**.
+- Visualized key insights using Python to support data-driven storytelling.
+
+**Tools Used:**
+- **SQL (SQLite)** – Data extraction and aggregation
+- **Python (Pandas)** – Data analysis
+- **Matplotlib & Seaborn** – Data visualization
+- **Jupyter Notebook** – Interactive analysis and documentation
+
+---
 ## 🔜 Upcoming Projects
 
 - **Python Projects** → Analysis and web scraping.
