@@ -140,6 +140,15 @@ Analyze the LargeBankingDB simulated banking database to uncover insights about 
 The catalog is dominated by affordable books (~£20) with mostly low ratings (1-star), and pricing shows minimal correlation with ratings, demonstrating data patterns that can inform further analysis or more complex scraping projects.
 
 ---
+### 2. 💼 Remote Job Market Analysis (Web Scraping Project)
+**Objective:** Scrape and analyze remote job listings to identify trends in job roles, skills demand, company hiring activity, and geographic distribution in the remote tech job market.
+
+**Key Highlights:**
+- Built a web scraping pipeline using **Python and Selenium** to collect job data from RemoteOK, extracting job title, company, location, posting time, and required skills.
+- Cleaned and structured the scraped data using **Pandas**, handling duplicates, missing values, and inconsistent entries.
+- Performed **exploratory data analysis and visualizations** to uncover the most demanded skills, common job roles, top hiring companies, and remote job location trends.
+- Analyzed **job posting frequency** to understand how recently remote positions were published.
+---
 ## 🔜 Upcoming Projects
 
 - **Python Projects** → Analysis and web scraping.
