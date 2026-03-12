@@ -44,11 +44,11 @@ Tables used include:
 
 ### Loan Portfolio Overview
 - **Question:** Most common loan types and total loan value  
-- **Insight:** Car loans dominate both in number and total value. Home loans have the highest average loan amounts. The bank balances high-volume and high-value lending strategies.
+- **Insight:** Car loans dominate both in number and total value. Home loans have the highest average loan amounts. 
 
 ### Customers with the Largest Loan Amounts
 - **Question:** Which customers hold the largest total loan amounts?  
-- **Insight:** Steven Lee holds the highest total loan amount with three loans. Top 10 customers’ loan totals are fairly close, highlighting a small group contributing significantly to the portfolio.
+- **Insight:** Steven Lane holds the highest total loan amount with three loans. Top 10 customers’ loan totals are fairly close.
 
 ## Visualizations
 All analyses are visualized with **Matplotlib**. Examples include:  
