@@ -98,6 +98,29 @@ Analyze the Chinook digital music store database to uncover insights about custo
 - **Jupyter Notebook** – Interactive analysis and documentation
 
 ---
+### 2. Banking SQL Analysis
+
+Analyze the LargeBankingDB simulated banking database to uncover insights about customer activity, branch performance, transaction trends, and loan portfolios using SQL and Python.
+
+**Highlights:**
+
+- Identified top-performing branches by account balances and transaction volumes.  
+- Analyzed top customers by transaction activity and total transaction amounts.  
+- Explored transaction type distributions for high-value customers.  
+- Examined monthly transaction trends to uncover seasonal patterns.  
+- Investigated the bank’s loan portfolio by loan type, total value, and average loan amounts.  
+- Determined top customers by total loan amounts to highlight high-value clients.  
+- Visualized all key insights to support data-driven business storytelling.  
+
+**Tools Used:**
+
+- **SQL (SQLite)** – Data extraction, aggregation, and joins  
+- **Python (pandas)** – Data cleaning and analysis  
+- **Matplotlib** – Visualization of trends, balances, and loan distributions  
+- **Jupyter Notebook** – Interactive analysis and structured documentation
+
+---
+
 ## 🔜 Upcoming Projects
 
 - **Python Projects** → Analysis and web scraping.
