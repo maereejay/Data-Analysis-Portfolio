@@ -120,7 +120,26 @@ Analyze the LargeBankingDB simulated banking database to uncover insights about 
 - **Jupyter Notebook** – Interactive analysis and structured documentation
 
 ---
+## 🗂️ Web Scraping Projects Highlights
 
+### 1. 📚 Books Catalog Web Scraping
+**Objective:** Scrape book data from [Books to Scrape](http://books.toscrape.com) and analyze price and rating trends to uncover patterns in the catalog.  
+
+**Key Highlights:**
+- Scraped **~1000 books** across 50 pages using `requests` and `BeautifulSoup`.  
+- Extracted key fields: **title, price, and rating**.  
+- Cleaned data: removed currency symbols and converted prices to numeric; mapped textual ratings (`One–Five`) to integers (1–5).  
+- Conducted exploratory data analysis:  
+  - **Price distribution:** most books cluster around £20, with a few expensive outliers.  
+  - **Rating distribution:** majority of books have 1-star ratings; 2-star and 5-star books occur similarly, while 4-star books are least common.  
+  - **Average price by rating:** prices are roughly consistent across ratings; 4-star books slightly higher on average.  
+- Visualized findings using **histograms and bar charts** for clear communication of insights.  
+- Documented the full workflow for **portfolio presentation**, highlighting scraping, cleaning, analysis, and visualization skills.  
+
+**Insight Summary:**  
+The catalog is dominated by affordable books (~£20) with mostly low ratings (1-star), and pricing shows minimal correlation with ratings, demonstrating data patterns that can inform further analysis or more complex scraping projects.
+
+---
 ## 🔜 Upcoming Projects
 
 - **Python Projects** → Analysis and web scraping.
