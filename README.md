@@ -7,9 +7,8 @@ Data-Analysis-Portfolio/
 │
 └── Excel/
 └── Python/
+└── Powerbi/
 
-
-Future folders will include **Python**, **SQL**, **Tableau**, and **Power BI** projects.  
 
 ---
 
@@ -149,11 +148,25 @@ The catalog is dominated by affordable books (~£20) with mostly low ratings (1-
 - Performed **exploratory data analysis and visualizations** to uncover the most demanded skills, common job roles, top hiring companies, and remote job location trends.
 - Analyzed **job posting frequency** to understand how recently remote positions were published.
 ---
-## 🔜 Upcoming Projects
+## 📊 Power BI Project Highlights
+### 1. 🎬 Netflix Content Strategy Analysis (Power BI)
+**Objective:** Analyze Netflix’s content dataset to uncover trends in content growth, genre distribution, and regional production patterns, and to understand how the platform’s content strategy has evolved over time.  
 
-- **Python Projects** → Analysis and web scraping.
-- **SQL Projects** → Querying and joining datasets from relational databases.  
-- **Tableau / Power BI Projects** → Interactive dashboards and visual storytelling.  
+**Key Highlights:**
+- Performed **end-to-end data preparation** including column profiling, handling missing values, imputations, date formatting, and feature engineering.  
+- Transformed data by **splitting multi-category fields** (genres) into a separate relational table for accurate analysis.  
+- Built an **interactive dashboard** in Power BI with KPI cards, trend analysis, and dynamic filtering.  
+- Designed key visuals including:  
+  - **Content growth over time:** strong growth until ~2020 followed by a decline in new additions.  
+  - **Movies vs TV Shows distribution:** movies dominate the platform.  
+  - **Top genres:** Drama, International Movies, and Comedies are most common.  
+  - **Top producing countries:** content is concentrated in key regions, led by the United States.  
+- Implemented **interactive slicers** (Type, Year, Genre) to enable dynamic exploration.  
+- Applied **data modeling** to create relationships between tables and ensure accurate aggregations.  
+- Focused on **business-oriented storytelling**, translating analysis into clear, decision-relevant insights.  
+
+**Insight Summary:**  
+Netflix experienced rapid catalog expansion up to around 2020, followed by a decline in content additions, suggesting a shift toward more selective acquisition. Movies dominate the platform, and content production is concentrated in a few key regions, particularly the United States. Popular genres such as Drama, International Movies, and Comedies indicate a focus on globally appealing content. Overall, the platform appears to be transitioning from aggressive growth to a more balanced and strategic content approach.
 
 ---
 
